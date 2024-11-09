@@ -1,6 +1,8 @@
 # 💫 About Me:
-🤝 I’m looking to collaborate on innovative ideas and projects<br>🌱 I’m currently learning new technologies and frameworks to enhance<br>skills<br>⚡ Fun fact : I'm a big cinephile the first question i would ask you<br>is definitely whats your best movie
 
+🤝 I’m excited to collaborate on innovative ideas and projects.<br>
+🌱 Currently expanding my skills with new technologies and frameworks.<br>
+⚡ Fun fact: I'm a huge cinephile! I’d love to know—what’s your favorite movie?
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/killer_beep) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amine_mfd11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-moufid11) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@amine_mfd11) 
